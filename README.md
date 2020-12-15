@@ -12,6 +12,8 @@ Our team will deploy a solution using web technologies in order to be accessible
 * Senior Capstone 
 * Project status: prototype
 
+Check out our final [presentation](https://www.youtube.com/watch?v=Nfcebrz-ubo&feature=youtu.be) and [demo](https://www.youtube.com/watch?v=p2KFhQ2kCgw&feature=youtu.be) videos
+
 ## Table of contents
 
 > * [Title / Repository Name](#Cybersecurity-Based-Knowledge-Management-System)
